@@ -18,8 +18,6 @@ Below there is a quick list of all available solutions:
  
 | Day | Name                       | Solution                   |
 |:---:| -------------------------- |:--------------------------:|
-<!--
-| 01  | [No Time for a Taxicab][1] | [:star:](./day01/index.js) |
--->
+| 01  | [Inverse Captcha][1]       | [:star:](./day01/index.js) |
 
 [1]: http://adventofcode.com/2016/day/1
